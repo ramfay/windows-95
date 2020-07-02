@@ -1,6 +1,6 @@
 ---
 layout: me
-title: ramisa
+title: About Me
 ---
 
 hello it me
