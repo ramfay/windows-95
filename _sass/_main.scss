@@ -3,8 +3,7 @@ html, body {
 } 
 
 body {
-	background: rgb(255,193,203);
-	background: linear-gradient(153deg, rgba(255,193,203,1) 0%, rgba(249,205,156,1) 46%, rgba(228,250,181,1) 100%);
+	background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
 	font-family: sans-serif, serif, monospace;
 	font-size: 13px;
 	background-size: auto 100%;
