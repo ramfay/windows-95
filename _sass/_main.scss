@@ -3,12 +3,13 @@ html, body {
 } 
 
 body {
-	background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+	background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%) fixed;
 	font-family: sans-serif, serif, monospace;
 	font-size: 13px;
 	background-size: auto 100%;
 	background-repeat: no-repeat;
 	background-position: left top;
+	width: 100%;
 }
 
 .wrapper, .content {
