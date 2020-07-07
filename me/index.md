@@ -22,4 +22,4 @@ I also listen to a bunch of non-security related podcasts, mostly comedy (faves 
 
 ## And what about working with me?
 
-Ah yes, if you are here to see what I have worked on, check out my [resume](2020-07-02-resume.md).
+Ah yes, if you are here to see what I have worked on, check out my resume.
