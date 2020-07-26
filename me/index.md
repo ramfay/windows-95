@@ -15,7 +15,7 @@ Some of my fave tech poddies would be:
 - Hackable
 - Reply All
 - The Privacy, Security & OSINT Show
-- KB Kast
+- KB Kast,
 in addition to so many others.
 
 I also listen to a bunch of non-security related podcasts, mostly comedy (faves would be anything by the McElroy brothers, Aunty Donna, and God is Dead)!
